@@ -3,9 +3,10 @@
 ### Hi there 👋
 
 - 🏄 React, JavaScript, Node.js
-- 🌱 I’m currently learning Three.js, TypeScript, Rust
+- 🌱 I'm currently learning Three.js, TypeScript, Rust
 - 🏠 [BowenCodes.com](https://bowencodes.com)
 - 📧 zwxdyx@foxmail.com
+- 👨‍💻 I'm looking for a `good` job
 
 ![](https://komarev.com/ghpvc/?username=bowen7)
 
