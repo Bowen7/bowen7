@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning Three.js, TypeScript, Rust
 - 🏠 [BowenCodes.com](https://bowencodes.com)
 - 📧 zwxdyx@foxmail.com
-<!-- - 👨‍💻 I'm looking for a **good** job (eight-hour day) -->
+- 👨‍💻 I'm looking for a **good** job (eight-hour day)
 
 ![](https://komarev.com/ghpvc/?username=bowen7)
 
