@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🏄 React, JavaScript, Node.js
-- 🌱 I'm currently learning Three.js, TypeScript, Rust
+- 🏄 React, TypeScript, Node.js
+- 🌱 I'm currently learning Rust, Swift
 - 🏠 [BowenCodes.com](https://bowencodes.com)
 - 📧 zwxdyx@foxmail.com
 <!-- - 👨‍💻 I'm looking for a **good** job (eight-hour day) -->
