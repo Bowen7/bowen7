@@ -8,6 +8,7 @@
 - 📧 1997bowen@gmail.com
 
 👨‍💻 I'm looking for a job now, here's my basic resume: https://read.cv/bowen
+
 Feel free to reach out!
 
 ![](https://komarev.com/ghpvc/?username=bowen7)
