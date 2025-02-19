@@ -5,8 +5,10 @@
 - 🏄 React, TypeScript, Node.js
 - 🌱 I'm currently learning Rust, Swift
 - 🏠 [BowenCodes.com](https://bowencodes.com)
-- 📧 zwxdyx@foxmail.com
-<!-- - 👨‍💻 I'm looking for a **good** job (eight-hour day) -->
+- 📧 1997bowen@gmail.com
+
+👨‍💻 I'm looking for a job now, here's my basic resume: https://read.cv/bowen
+Feel free to reach out!
 
 ![](https://komarev.com/ghpvc/?username=bowen7)
 
